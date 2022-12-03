@@ -1,4 +1,4 @@
-package denal;
+package com.denal;
 
 import org.junit.jupiter.params.ParameterizedTest;
 import org.junit.jupiter.params.provider.ValueSource;

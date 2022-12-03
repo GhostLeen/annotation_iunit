@@ -1,4 +1,4 @@
-package denal;
+package com.denal;
 
 import org.junit.jupiter.api.Tag;
 import org.junit.jupiter.params.ParameterizedTest;

@@ -1,4 +1,4 @@
-package denal;
+package com.denal;
 
 import com.codeborne.selenide.CollectionCondition;
 import org.junit.jupiter.params.ParameterizedTest;
